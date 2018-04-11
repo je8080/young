@@ -21,7 +21,7 @@
      2학년이 되었을 때 디지털인문예술학과를 복수전공 하였다. 현재는 3학년 1학기를 재학중이다.</h3>
     <br><br>
      <h1><li>
-       <a href "http://adv.hallym.ac.kr/user/indexMain.do?siteId=adpr">한림대학교 광고홍보학과</a>
+      <a> <a href "http://adv.hallym.ac.kr/user/indexMain.do?siteId=adpr">한림대학교 광고홍보학과</a>
      </li></h1><br>
      <h3>광고홍보학은 광고활동과 광고현상 등을 연구대상으로 하는 ‘광고’와 기업 단체 <br>
      또는 관공서 등의 조직체가 커뮤니케이션 활동을 통하여 스스로 생각이나 계획 활동<br>
