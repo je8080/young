@@ -1,4 +1,3 @@
-# young
 <!doctype html>
 <html>
  <head>
@@ -6,7 +5,7 @@
    <meta charest="UTF-8">
  </head>
  <body>
-   <img src="우웩.jpg">
+   <img src="우웩.jpg" width= "100%">
   <br><br><br>
   <h2><strong><u><font size="100%">JeonSoYoung</font></u></strong></h2>
    <br><br><li>소개</li><br>
