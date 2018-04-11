@@ -21,8 +21,7 @@
      2학년이 되었을 때 디지털인문예술학과를 복수전공 하였다. 현재는 3학년 1학기를 재학중이다.</h3>
     <br><br>
      <h1><li>
-       <a href "http://adv.hallym.ac.kr/user/indexMain.do?siteId=adpr"
-       target= "_blank" title= "한림대학교 홈페이지">한림대학교 광고홍보학과</a>
+       <a href "http://adv.hallym.ac.kr/user/indexMain.do?siteId=adpr">한림대학교 광고홍보학과</a>
      </li></h1><br>
      <h3>광고홍보학은 광고활동과 광고현상 등을 연구대상으로 하는 ‘광고’와 기업 단체 <br>
      또는 관공서 등의 조직체가 커뮤니케이션 활동을 통하여 스스로 생각이나 계획 활동<br>
@@ -31,7 +30,7 @@
      되었습니다. 광고홍보학과에서는 현대 사회에서 광고의 역할과 광고에 나타나는 커뮤니케이션 <br>
      현상을 과학적으로 탐구함으로써 광고계의 능력 있는 인재를 양성하는데 교육목표를 두고 있습니다.</h3>
      <br><br>
-     <h1><li><a href "https://sites.google.com/view/dah-hallym" target= "_blank" title= "한림대학교 디지털인문예술홈페이지">디지털인문예술</a></li></h1>
+     <h1><li><a href "https://sites.google.com/view/dah-hallym">디지털인문예술</a></li></h1>
       <br><h3>디지털 기술의 비약적인 발전은 인문학의 근본적인 변화를 요구하는 동시에 인문학의 가능성을 획기적으로<br>
       증대시키고 있다. 디지털 기술은 또한 오랜 세월 동안 쌓인 인문학의 지적 자산과 미적 감각, 창의력을<br>
       절실하게 필요로 하고 있다. 여기에 디지털 기술과 인문학이 화학적으로 결합할 필요성이 있다. <br>
